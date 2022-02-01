@@ -1,0 +1,16 @@
+body {
+    font-family: 'Zen Kurenaido';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap; 
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    border-bottom: 5px solid black;
+}
+
+.save-container {
+    background-color: rgb(136, 171, 224);
+}
